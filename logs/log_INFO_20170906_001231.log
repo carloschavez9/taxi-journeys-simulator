@@ -1,0 +1,108 @@
+TaxiService Started
+TaxiServiceModel running
+Window 1, group GroupNumber 1, Passengers 3, Destination: The Balmoral Hotel, taxi RegistrationNumber: 075FTS, Driver: Amy Allison, MaxPassengers: 6, Status: IN_ROUTE, passengers allocated 6, initial group 9, total groups 45, total taxis 45
+Window 2, group GroupNumber 2, Passengers 0, Destination: The Sheraton Grand Hotel, taxi RegistrationNumber: 398ZRK, Driver: Patience Baldwin, MaxPassengers: 4, Status: READY, passengers allocated 2, initial group 2, total groups 45, total taxis 44
+Window 3, group GroupNumber 3, Passengers 2, Destination: The Rutland Hotel, taxi RegistrationNumber: 704UUD, Driver: Delilah Mercer, MaxPassengers: 5, Status: READY, passengers allocated 5, initial group 7, total groups 45, total taxis 44
+Window 4, group GroupNumber 4, Passengers 0, Destination: Restaurant Martin Wishart, taxi RegistrationNumber: 454DUV, Driver: Lana Pittman, MaxPassengers: 4, Status: IN_ROUTE, passengers allocated 3, initial group 3, total groups 45, total taxis 43
+Window 5, group GroupNumber 5, Passengers 6, Destination: Hotel ibis Styles, taxi RegistrationNumber: 126ICU, Driver: Christine Mcfadden, MaxPassengers: 1, Status: IN_ROUTE, passengers allocated 1, initial group 7, total groups 45, total taxis 43
+Window 1, group GroupNumber 1, Passengers 1, Destination: The Balmoral Hotel, taxi RegistrationNumber: 764DWQ, Driver: Francis Singleton, MaxPassengers: 2, Status: IN_ROUTE, passengers allocated 2, initial group 9, total groups 45, total taxis 42
+Window 3, group GroupNumber 3, Passengers 0, Destination: The Rutland Hotel, taxi RegistrationNumber: 614LAJ, Driver: Freya David, MaxPassengers: 4, Status: IN_ROUTE, passengers allocated 2, initial group 7, total groups 44, total taxis 41
+Window 5, group GroupNumber 5, Passengers 5, Destination: Hotel ibis Styles, taxi RegistrationNumber: 822MZQ, Driver: Tanek King, MaxPassengers: 1, Status: READY, passengers allocated 1, initial group 7, total groups 43, total taxis 41
+Window 1, group GroupNumber 1, Passengers 0, Destination: The Balmoral Hotel, taxi RegistrationNumber: 820GHF, Driver: Emery Madden, MaxPassengers: 2, Status: IN_ROUTE, passengers allocated 1, initial group 9, total groups 43, total taxis 40
+Window 5, group GroupNumber 5, Passengers 0, Destination: Hotel ibis Styles, taxi RegistrationNumber: 660QRQ, Driver: William Gilliam, MaxPassengers: 5, Status: READY, passengers allocated 5, initial group 7, total groups 42, total taxis 38
+Window 2, group GroupNumber 6, Passengers 0, Destination: BT Murrayfield Stadium, taxi RegistrationNumber: 172IBB, Driver: Dominique Doyle, MaxPassengers: 6, Status: READY, passengers allocated 5, initial group 5, total groups 41, total taxis 38
+Window 4, group GroupNumber 7, Passengers 4, Destination: Arthur's Seat, taxi RegistrationNumber: 040SZP, Driver: Armand Santana, MaxPassengers: 4, Status: IN_ROUTE, passengers allocated 4, initial group 8, total groups 41, total taxis 37
+Window 3, group GroupNumber 8, Passengers 6, Destination: Edinburgh Castle, taxi RegistrationNumber: 636OSH, Driver: Winifred Vasquez, MaxPassengers: 4, Status: READY, passengers allocated 4, initial group 10, total groups 39, total taxis 35
+Window 4, group GroupNumber 7, Passengers 2, Destination: Arthur's Seat, taxi RegistrationNumber: 648GWN, Driver: Kendall Mcgowan, MaxPassengers: 2, Status: READY, passengers allocated 2, initial group 8, total groups 39, total taxis 34
+Window 1, group GroupNumber 9, Passengers 6, Destination: Apex Waterloo Place Hotel, taxi RegistrationNumber: 738KIN, Driver: Price Francis, MaxPassengers: 2, Status: IN_ROUTE, passengers allocated 2, initial group 8, total groups 39, total taxis 32
+Window 3, group GroupNumber 8, Passengers 4, Destination: Edinburgh Castle, taxi RegistrationNumber: 551ISK, Driver: Sonya Allen, MaxPassengers: 2, Status: IN_ROUTE, passengers allocated 2, initial group 10, total groups 39, total taxis 30
+Window 4, group GroupNumber 7, Passengers 0, Destination: Arthur's Seat, taxi RegistrationNumber: 225MKZ, Driver: Laura Riddle, MaxPassengers: 5, Status: READY, passengers allocated 2, initial group 8, total groups 39, total taxis 29
+Window 5, group GroupNumber 10, Passengers 0, Destination: Timberyard, taxi RegistrationNumber: 924TLL, Driver: Venus Nunez, MaxPassengers: 4, Status: IN_ROUTE, passengers allocated 2, initial group 2, total groups 39, total taxis 29
+Window 1, group GroupNumber 9, Passengers 4, Destination: Apex Waterloo Place Hotel, taxi RegistrationNumber: 618NMY, Driver: Fredericka Reilly, MaxPassengers: 2, Status: IN_ROUTE, passengers allocated 2, initial group 8, total groups 39, total taxis 29
+Window 2, group GroupNumber 11, Passengers 1, Destination: Waldorf Astoria Edinburgh Hotel, taxi RegistrationNumber: 565EBD, Driver: Imelda Palmer, MaxPassengers: 5, Status: READY, passengers allocated 5, initial group 6, total groups 39, total taxis 28
+Window 3, group GroupNumber 8, Passengers 3, Destination: Edinburgh Castle, taxi RegistrationNumber: 023YVK, Driver: Stewart Frye, MaxPassengers: 1, Status: READY, passengers allocated 1, initial group 10, total groups 39, total taxis 27
+Window 1, group GroupNumber 9, Passengers 2, Destination: Apex Waterloo Place Hotel, taxi RegistrationNumber: 271QVV, Driver: Illana Kelley, MaxPassengers: 2, Status: READY, passengers allocated 2, initial group 8, total groups 37, total taxis 26
+Window 2, group GroupNumber 11, Passengers 0, Destination: Waldorf Astoria Edinburgh Hotel, taxi RegistrationNumber: 259MHN, Driver: Christian Burgess, MaxPassengers: 1, Status: READY, passengers allocated 1, initial group 6, total groups 37, total taxis 25
+Window 3, group GroupNumber 8, Passengers 0, Destination: Edinburgh Castle, taxi RegistrationNumber: 511HCD, Driver: Dorothy Puckett, MaxPassengers: 4, Status: IN_ROUTE, passengers allocated 3, initial group 10, total groups 37, total taxis 25
+Window 1, group GroupNumber 9, Passengers 1, Destination: Apex Waterloo Place Hotel, taxi RegistrationNumber: 149OLI, Driver: Camilla Bush, MaxPassengers: 1, Status: READY, passengers allocated 1, initial group 8, total groups 37, total taxis 23
+Window 4, group GroupNumber 12, Passengers 4, Destination: Restaurant Mark Greenaway, taxi RegistrationNumber: 542LEN, Driver: Jennifer Morgan, MaxPassengers: 2, Status: IN_ROUTE, passengers allocated 2, initial group 6, total groups 35, total taxis 22
+TOTAL Journey, taxi 075FTS, passengers 6, destination The Balmoral Hotel, distance 8.0, cost 26.00
+Window 5, group GroupNumber 13, Passengers 5, Destination: The Scotsman Hotel, taxi RegistrationNumber: 172IVP, Driver: Fuller Cote, MaxPassengers: 5, Status: READY, passengers allocated 5, initial group 10, total groups 35, total taxis 21
+TOTAL Journey, taxi 398ZRK, passengers 2, destination The Sheraton Grand Hotel, distance 7.2, cost 25.20
+Window 1, group GroupNumber 9, Passengers 0, Destination: Apex Waterloo Place Hotel, taxi RegistrationNumber: 850DRG, Driver: Lee Alvarado, MaxPassengers: 1, Status: READY, passengers allocated 1, initial group 8, total groups 35, total taxis 20
+TOTAL Journey, taxi 704UUD, passengers 5, destination The Rutland Hotel, distance 7.4, cost 25.40
+Window 4, group GroupNumber 12, Passengers 0, Destination: Restaurant Mark Greenaway, taxi RegistrationNumber: 520PUS, Driver: Karyn May, MaxPassengers: 4, Status: IN_ROUTE, passengers allocated 4, initial group 6, total groups 35, total taxis 18
+TOTAL Journey, taxi 126ICU, passengers 1, destination Hotel ibis Styles, distance 7.5, cost 25.50
+TOTAL Journey, taxi 764DWQ, passengers 2, destination The Balmoral Hotel, distance 8.0, cost 26.00
+Window 5, group GroupNumber 13, Passengers 3, Destination: The Scotsman Hotel, taxi RegistrationNumber: 155NMT, Driver: Kadeem Farrell, MaxPassengers: 2, Status: READY, passengers allocated 2, initial group 10, total groups 35, total taxis 18
+TOTAL Journey, taxi 172IBB, passengers 5, destination BT Murrayfield Stadium, distance 5.9, cost 21.90
+Window 2, group GroupNumber 14, Passengers 0, Destination: 21212, taxi RegistrationNumber: 021UZE, Driver: Chester Knox, MaxPassengers: 3, Status: IN_ROUTE, passengers allocated 2, initial group 2, total groups 34, total taxis 17
+TOTAL Journey, taxi 614LAJ, passengers 2, destination The Rutland Hotel, distance 7.4, cost 25.40
+Window 3, group GroupNumber 15, Passengers 3, Destination: Scottish National Gallery of Modern Art, taxi RegistrationNumber: 215MTD, Driver: Anika Callahan, MaxPassengers: 4, Status: IN_ROUTE, passengers allocated 4, initial group 7, total groups 34, total taxis 17
+TOTAL Journey, taxi 822MZQ, passengers 1, destination Hotel ibis Styles, distance 7.5, cost 25.50
+TOTAL Journey, taxi 820GHF, passengers 1, destination The Balmoral Hotel, distance 8.0, cost 26.00
+Window 5, group GroupNumber 13, Passengers 0, Destination: The Scotsman Hotel, taxi RegistrationNumber: 759KXE, Driver: Yen Cochran, MaxPassengers: 4, Status: READY, passengers allocated 3, initial group 10, total groups 33, total taxis 16
+Window 3, group GroupNumber 15, Passengers 0, Destination: Scottish National Gallery of Modern Art, taxi RegistrationNumber: 804JLX, Driver: Morgan Sandoval, MaxPassengers: 6, Status: IN_ROUTE, passengers allocated 3, initial group 7, total groups 32, total taxis 15
+TOTAL Journey, taxi 454DUV, passengers 3, destination Restaurant Martin Wishart, distance 9.6, cost 29.60
+TOTAL Journey, taxi 660QRQ, passengers 5, destination Hotel ibis Styles, distance 7.5, cost 25.50
+Window 1, group GroupNumber 16, Passengers 1, Destination: Royal Botanic Garden, taxi RegistrationNumber: 275HCF, Driver: Sydney Stokes, MaxPassengers: 2, Status: IN_ROUTE, passengers allocated 2, initial group 3, total groups 31, total taxis 14
+Window 4, group GroupNumber 17, Passengers 0, Destination: Principal Edinburgh George Street Hotel, taxi RegistrationNumber: 269VUK, Driver: Madaline Higgins, MaxPassengers: 4, Status: READY, passengers allocated 2, initial group 2, total groups 30, total taxis 12
+Window 1, group GroupNumber 16, Passengers 0, Destination: Royal Botanic Garden, taxi RegistrationNumber: 438FRC, Driver: Clinton Morgan, MaxPassengers: 6, Status: IN_ROUTE, passengers allocated 1, initial group 3, total groups 30, total taxis 11
+Window 2, group GroupNumber 18, Passengers 0, Destination: The Balmoral Hotel, taxi RegistrationNumber: 772SRE, Driver: Maya Compton, MaxPassengers: 5, Status: READY, passengers allocated 3, initial group 3, total groups 30, total taxis 11
+TOTAL Journey, taxi 636OSH, passengers 4, destination Edinburgh Castle, distance 7.5, cost 25.50
+TOTAL Journey, taxi 738KIN, passengers 2, destination Apex Waterloo Place Hotel, distance 8.1, cost 26.10
+Window 5, group GroupNumber 19, Passengers 0, Destination: Timberyard, taxi RegistrationNumber: 161CRV, Driver: Caesar Shaw, MaxPassengers: 6, Status: READY, passengers allocated 5, initial group 5, total groups 29, total taxis 10
+TOTAL Journey, taxi 551ISK, passengers 2, destination Edinburgh Castle, distance 7.5, cost 25.50
+Window 3, group GroupNumber 20, Passengers 7, Destination: Craigmillar Castle, taxi RegistrationNumber: 655WXX, Driver: Wallace Dodson, MaxPassengers: 2, Status: IN_ROUTE, passengers allocated 2, initial group 9, total groups 27, total taxis 10
+TOTAL Journey, taxi 924TLL, passengers 2, destination Timberyard, distance 7.6, cost 25.60
+TOTAL Journey, taxi 618NMY, passengers 2, destination Apex Waterloo Place Hotel, distance 8.1, cost 26.10
+TOTAL Journey, taxi 565EBD, passengers 5, destination Waldorf Astoria Edinburgh Hotel, distance 7.4, cost 25.40
+TOTAL Journey, taxi 023YVK, passengers 1, destination Edinburgh Castle, distance 7.5, cost 25.50
+Window 3, group GroupNumber 20, Passengers 4, Destination: Craigmillar Castle, taxi RegistrationNumber: 110PQZ, Driver: Brennan Day, MaxPassengers: 3, Status: IN_ROUTE, passengers allocated 3, initial group 9, total groups 26, total taxis 6
+TOTAL Journey, taxi 040SZP, passengers 4, destination Arthur's Seat, distance 11.1, cost 32.10
+Window 4, group GroupNumber 21, Passengers 0, Destination: Scottish National Gallery of Modern Art, taxi RegistrationNumber: 053MHZ, Driver: Armando Johnson, MaxPassengers: 5, Status: IN_ROUTE, passengers allocated 3, initial group 3, total groups 26, total taxis 5
+TOTAL Journey, taxi 271QVV, passengers 2, destination Apex Waterloo Place Hotel, distance 8.1, cost 26.10
+TOTAL Journey, taxi 259MHN, passengers 1, destination Waldorf Astoria Edinburgh Hotel, distance 7.4, cost 25.40
+Window 1, group GroupNumber 22, Passengers 0, Destination: Timberyard, taxi RegistrationNumber: 059HUA, Driver: Baxter Roberts, MaxPassengers: 6, Status: READY, passengers allocated 1, initial group 1, total groups 26, total taxis 4
+Window 2, group GroupNumber 23, Passengers 1, Destination: 21212, taxi RegistrationNumber: 445YGT, Driver: Roanna Mcdaniel, MaxPassengers: 5, Status: READY, passengers allocated 5, initial group 6, total groups 26, total taxis 4
+TOTAL Journey, taxi 511HCD, passengers 3, destination Edinburgh Castle, distance 7.5, cost 25.50
+Window 3, group GroupNumber 20, Passengers 3, Destination: Craigmillar Castle, taxi RegistrationNumber: 009AKP, Driver: Farrah Blanchard, MaxPassengers: 1, Status: IN_ROUTE, passengers allocated 1, initial group 9, total groups 26, total taxis 3
+TOTAL Journey, taxi 648GWN, passengers 2, destination Arthur's Seat, distance 11.1, cost 32.10
+TOTAL Journey, taxi 542LEN, passengers 2, destination Restaurant Mark Greenaway, distance 7.0, cost 24.00
+TOTAL Journey, taxi 149OLI, passengers 1, destination Apex Waterloo Place Hotel, distance 8.1, cost 26.10
+Window 5, group GroupNumber 24, Passengers 1, Destination: The Rutland Hotel, taxi RegistrationNumber: 661HLG, Driver: Baker Thompson, MaxPassengers: 1, Status: IN_ROUTE, passengers allocated 1, initial group 2, total groups 25, total taxis 2
+Window 2, group GroupNumber 23, Passengers 0, Destination: 21212, taxi RegistrationNumber: 980RBX, Driver: Serena Jimenez, MaxPassengers: 3, Status: IN_ROUTE, passengers allocated 1, initial group 6, total groups 24, total taxis 1
+Window 3, group GroupNumber 20, Passengers 2, Destination: Craigmillar Castle, taxi RegistrationNumber: 512HUS, Driver: Chase Pierce, MaxPassengers: 1, Status: IN_ROUTE, passengers allocated 1, initial group 9, total groups 24, total taxis 1
+TOTAL Journey, taxi 225MKZ, passengers 2, destination Arthur's Seat, distance 11.1, cost 32.10
+TOTAL Journey, taxi 520PUS, passengers 4, destination Restaurant Mark Greenaway, distance 7.0, cost 24.00
+Window 4 total taxi allocations 8
+TOTAL Journey, taxi 850DRG, passengers 1, destination Apex Waterloo Place Hotel, distance 8.1, cost 26.10
+Window 5, group GroupNumber 24, Passengers 0, Destination: The Rutland Hotel, taxi RegistrationNumber: 559WJO, Driver: Amity Rodriquez, MaxPassengers: 5, Status: IN_ROUTE, passengers allocated 1, initial group 2, total groups 24, total taxis 0
+Window 5 total taxi allocations 10
+Window 1 total taxi allocations 11
+TOTAL Journey, taxi 215MTD, passengers 4, destination Scottish National Gallery of Modern Art, distance 6.4, cost 23.40
+Window 3, group GroupNumber 20, Passengers 0, Destination: Craigmillar Castle, taxi RegistrationNumber: 299DMI, Driver: Oprah Nieves, MaxPassengers: 3, Status: IN_ROUTE, passengers allocated 2, initial group 9, total groups 23, total taxis 0
+Window 3 total taxi allocations 13
+TOTAL Journey, taxi 172IVP, passengers 5, destination The Scotsman Hotel, distance 8.4, cost 27.40
+Window 2 total taxi allocations 8
+TaxiServiceModel finished running
+TOTAL Journey, taxi 804JLX, passengers 3, destination Scottish National Gallery of Modern Art, distance 6.4, cost 23.40
+TOTAL Journey, taxi 155NMT, passengers 2, destination The Scotsman Hotel, distance 8.4, cost 27.40
+TOTAL Journey, taxi 021UZE, passengers 2, destination 21212, distance 8.8, cost 27.80
+TOTAL Journey, taxi 759KXE, passengers 3, destination The Scotsman Hotel, distance 8.4, cost 27.40
+TOTAL Journey, taxi 269VUK, passengers 2, destination Principal Edinburgh George Street Hotel, distance 7.4, cost 25.40
+TOTAL Journey, taxi 275HCF, passengers 2, destination Royal Botanic Garden, distance 8.3, cost 27.30
+TOTAL Journey, taxi 772SRE, passengers 3, destination The Balmoral Hotel, distance 8.0, cost 26.00
+TOTAL Journey, taxi 161CRV, passengers 5, destination Timberyard, distance 7.6, cost 25.60
+TOTAL Journey, taxi 438FRC, passengers 1, destination Royal Botanic Garden, distance 8.3, cost 27.30
+TOTAL Journey, taxi 053MHZ, passengers 3, destination Scottish National Gallery of Modern Art, distance 6.4, cost 23.40
+TOTAL Journey, taxi 059HUA, passengers 1, destination Timberyard, distance 7.6, cost 25.60
+TOTAL Journey, taxi 661HLG, passengers 1, destination The Rutland Hotel, distance 7.4, cost 25.40
+TOTAL Journey, taxi 445YGT, passengers 5, destination 21212, distance 8.8, cost 27.80
+TOTAL Journey, taxi 559WJO, passengers 1, destination The Rutland Hotel, distance 7.4, cost 25.40
+TOTAL Journey, taxi 980RBX, passengers 1, destination 21212, distance 8.8, cost 27.80
+TOTAL Journey, taxi 655WXX, passengers 2, destination Craigmillar Castle, distance 11.6, cost 33.60
+TOTAL Journey, taxi 110PQZ, passengers 3, destination Craigmillar Castle, distance 11.6, cost 33.60
+TOTAL Journey, taxi 009AKP, passengers 1, destination Craigmillar Castle, distance 11.6, cost 33.60
+TOTAL Journey, taxi 512HUS, passengers 1, destination Craigmillar Castle, distance 11.6, cost 33.60
+TOTAL Journey, taxi 299DMI, passengers 2, destination Craigmillar Castle, distance 11.6, cost 33.60
